@@ -21,19 +21,20 @@
     "checkSiteMap": true,
     "uploadWithSourceMap": true,
     "compileHotReLoad": false,
+    "useMultiFrameRuntime": false,
+    "useApiHook": true,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
     },
+    "enableEngineNative": false,
     "useIsolateContext": true,
     "useCompilerModule": false,
     "userConfirmedUseCompilerModuleSwitch": false,
     "packNpmManually": false,
     "packNpmRelationList": [],
-    "minifyWXSS": true,
-    "useMultiFrameRuntime": false,
-    "useApiHook": true
+    "minifyWXSS": true
   },
   "compileType": "miniprogram",
   "libVersion": "2.9.0",
@@ -46,17 +47,10 @@
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
   "condition": {
-    "search": {
-      "list": []
-    },
-    "conversation": {
-      "list": []
-    },
     "plugin": {
       "list": []
     },
     "game": {
-      "currentL": -1,
       "list": []
     },
     "gamePlugin": {
@@ -65,9 +59,9 @@
     "miniprogram": {
       "list": [
         {
-          "id": -1,
-          "name": "pages/house/index",
-          "pathName": "pages/house/index",
+          "name": "首页",
+          "pathName": "pages/index/index",
+          "query": "",
           "scene": null
         }
       ]

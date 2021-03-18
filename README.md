@@ -1,4 +1,2 @@
 # lwjhome
- informations about  house !
- 
-hello world ! 
+ informations about  education !

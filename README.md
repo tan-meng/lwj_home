@@ -1,2 +1,2 @@
 # lwjhome
- informations about  education !
+ information about  education !

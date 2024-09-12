@@ -1,6 +1,0 @@
-<!--pages/my/index.wxml-->
-<text class="flex">
-  <text>我的1</text>
-  <text>我的2</text>
-  <text>我的3</text>
-</text>

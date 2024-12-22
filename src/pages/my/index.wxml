@@ -1,0 +1,6 @@
+<!-- pages/my/index.wxml -->
+<view class="demo">
+  <view class="container flex">我的1</view>
+  <view class="container flex">我的2</view>
+  <view class="container flex">我的3</view>
+</view>
